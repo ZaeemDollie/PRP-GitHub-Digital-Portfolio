@@ -6,10 +6,10 @@ CV Submission,
 ![CV Submission](CV%20Submission.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation:,
-Task:,
-Action:,
-Result:,
+Situation: We had to submit in our complete CV as part of our career development curriculum to show that we understood how to present ourselves to future employers in a professional manner.
+Task: My task was to create a clean, accurate, and organized resume that highlighted my training, abilities, and professional objectives.
+Action: I went over my CV thoroughly, making sure it was clear and had proper grammar and layout. 
+Result: I felt a sense of satisfaction and readiness for future job applications after submitting the CV. 
 
 ---
 
@@ -30,10 +30,10 @@ PERSONALITY ASSESSMENT,
 ![Personality Assessment](Personality%20Assessment.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation:,
-Task:,
-Action:,
-Result:,
+Situation: To gain a better understanding of my strengths, weaknesses and normal methods for approaching tasks, communication, and teamwork, I took a personality test.
+Task: It was my responsibility to think back on the assessment's findings and analyse how my personality would affect how well I do in the lesson, on group assignments, and in my future careers.
+Action: I also thought about how my qualities fit into IT jobs, especially those that call for precision, focus, and self-reliance in solving problems.
+Result: I learned how to collaborate with people more successfully and where I can improve thanks to the evaluation. It also helped me determine what kinds of work settings would be most appropriate for me.
 
 ---
 
