@@ -51,7 +51,7 @@ Result:,
 
 Career Development,
 **EVIDENCE**
-![Career Development](Career%20Development.PNG)
+![Career Develpment](Career%20Develpment.PNG)
 
 REFLECTION: STAR TECHNIQUE
 Situation:,
